@@ -1,9 +1,7 @@
 # Sales Analysis Report and Dashboard
 
-This repository is under construction.
-
 Hi, I'm Rodrigo, and I'm a bilingual data professional;
-Check mu portfolio: https://rodrigojunqueiradev.github.io/
+Check my portfolio: https://rodrigojunqueiradev.github.io/
 
 This repository was built for a fictitious sales company, where I developed two main analyses:
 - Sales Analysis  
